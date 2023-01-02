@@ -1,0 +1,6 @@
+# venv files:
+.ipynb*
+pypdf/**
+
+# ignore below files:
+.DS_Store
