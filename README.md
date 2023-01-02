@@ -67,3 +67,9 @@ The notebook has another function to perform pdf merge.
 ### merge two sample pdfs using merge_pdf func:
 
 ![merge pdfs](screenshots/merge_pdf_screenshot.png)
+
+### References:
+
+[API references](https://developer.ilovepdf.com/docs/api-reference)
+
+[pylovepdf git](https://github.com/AndyCyberSec/pylovepdf.git)
