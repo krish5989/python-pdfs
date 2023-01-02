@@ -10,7 +10,7 @@ There are some pre-requisites to use pypdflove. Please ensure those are followed
 * [developer account] (https://developer.ilovepdf.com) to get a public key to use the API.
 * [Python 3.x.x]
 * [Requests] (http://it.python-requests.org/it/latest/)
-* create venv before installing package using requirement.txt `python3 -m venv pypdf`. venv name can be per your liking. Its always good practice to provide a meaningful name.
+* create virtual environment before installing package using requirement.txt `python3 -m venv <name of venv>`.
 
 ### Limitations:
 
