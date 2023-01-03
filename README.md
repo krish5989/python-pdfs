@@ -68,6 +68,16 @@ The notebook has another function to perform pdf merge.
 
 ![merge pdfs](screenshots/merge_pdf_screenshot.png)
 
+### pdf merge and compress:
+There will also be scenarios where we will have to do both operations on the PDF files. We can reuse our `merge_pdf()` and `compress_pdf()` functions to achieve this.
+
+### merge and compress function invocation:
+`merge_and_compress_pdf(pdf_files=<input pdf files>, compression_lvl="<value>")`
+
+### merge three sample pdfs and compress using merge_and_compress_pdf func:
+
+![merge and compress pdfs](screenshots/merge_and_compress_pdfs.png)
+
 ### References:
 
 [API references](https://developer.ilovepdf.com/docs/api-reference)
